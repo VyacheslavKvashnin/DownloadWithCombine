@@ -11,6 +11,8 @@
 		BD4694DD282AE9DC00C8E2DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4694DC282AE9DC00C8E2DC /* ContentView.swift */; };
 		BD4694DF282AE9DE00C8E2DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD4694DE282AE9DE00C8E2DC /* Assets.xcassets */; };
 		BD4694E2282AE9DE00C8E2DC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD4694E1282AE9DE00C8E2DC /* Preview Assets.xcassets */; };
+		BD4694E9282AFC0A00C8E2DC /* DownloadViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4694E8282AFC0A00C8E2DC /* DownloadViewModel.swift */; };
+		BD4694EB282AFC7E00C8E2DC /* Posts.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4694EA282AFC7E00C8E2DC /* Posts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		BD4694DC282AE9DC00C8E2DC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD4694DE282AE9DE00C8E2DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD4694E1282AE9DE00C8E2DC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD4694E8282AFC0A00C8E2DC /* DownloadViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadViewModel.swift; sourceTree = "<group>"; };
+		BD4694EA282AFC7E00C8E2DC /* Posts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Posts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +56,8 @@
 			isa = PBXGroup;
 			children = (
 				BD4694DA282AE9DC00C8E2DC /* DownloadWithCombineApp.swift */,
+				BD4694E8282AFC0A00C8E2DC /* DownloadViewModel.swift */,
+				BD4694EA282AFC7E00C8E2DC /* Posts.swift */,
 				BD4694DC282AE9DC00C8E2DC /* ContentView.swift */,
 				BD4694DE282AE9DE00C8E2DC /* Assets.xcassets */,
 				BD4694E0282AE9DE00C8E2DC /* Preview Content */,
@@ -139,6 +145,8 @@
 			files = (
 				BD4694DD282AE9DC00C8E2DC /* ContentView.swift in Sources */,
 				BD4694DB282AE9DC00C8E2DC /* DownloadWithCombineApp.swift in Sources */,
+				BD4694E9282AFC0A00C8E2DC /* DownloadViewModel.swift in Sources */,
+				BD4694EB282AFC7E00C8E2DC /* Posts.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
